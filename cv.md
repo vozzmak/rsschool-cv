@@ -1,6 +1,17 @@
 <header> 
 
+<style> 
+    * {
+        margin: auto;
+    }
+
+    footer {
+        text-align: center;
+    }
+</style>
+
 # CV
+
 Pasha Bertosh
 
 <nav>
