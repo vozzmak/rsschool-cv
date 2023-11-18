@@ -1,1 +1,1 @@
-https://vozzmak.github.io/rsschool-cv/cv 
+https://vozzmak.github.io/rsschool-cv/
