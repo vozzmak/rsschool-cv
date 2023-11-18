@@ -1,15 +1,5 @@
 <header> 
 
-<style> 
-    * {
-        margin: auto;
-    }
-
-    footer {
-        text-align: center;
-    }
-</style>
-
 # CV
 
 Pasha Bertosh
@@ -59,10 +49,13 @@ The practice of my english contains school/university experience, but mostly it 
 
 </main>
 
-<footer>
+<footer style="text-align:center">
 
 <a href="https://github.com/vozzmak">Me on GitHub</a> \
 <date>11.2023<date>
+<br>
+<br>
+<br>
 <a href='https://app.rs.school'>
 <img src='https://app.rs.school/static/images/logo-rsschool3.png' alt='Rolling Scopes School'>
 
