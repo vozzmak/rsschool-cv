@@ -49,7 +49,7 @@ Basic knowledge of
 https://vozzmak.github.io/rsschool-cv/cv - CV (Markdown)
 
 ## Experience 
-Succesfully completed tests on JavaScript Frontend course from Rolling Scopes: Fundamental of the Internet and RSS Test, 96 and 97 points respectively.
+Succesfully completed tests on JavaScript Frontend course from Rolling Scopes: Fundamental of the Internet and RSS Test.
 
 ## Education 
 I got a law degree in Belarusian State Economic University. My diploma is dedicated to the license agreement. 
@@ -64,6 +64,6 @@ The practice of my english contains school/university experience, but mostly it 
 <a href="https://github.com/vozzmak">Me on GitHub</a> \
 <date>11.2023<date>
 <a href='https://app.rs.school'>
-<img src='https://app.rs.school/static/images/logo-rsschool3.png'>
+<img src='https://app.rs.school/static/images/logo-rsschool3.png' alt='Rolling Scopes School'>
 
 </footer>
